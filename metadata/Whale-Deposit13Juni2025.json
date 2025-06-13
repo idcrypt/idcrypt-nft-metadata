@@ -1,8 +1,8 @@
 {
   "name": "NFT: Whale Deposit of 1,000 BTC to Binance Spurs Market Spotlight",
   "description": "On June 13, 2025, fresh on-chain data revealed a major Bitcoin whale had deposited 1,000 BTC—worth approximately $105 million—into Binance, the world’s largest crypto exchange.",
-  "external_url": "https://github.com/idcrypt/idcrypt-nft-metadata/blob/main/covers/btc2.png",
-  "image": "",
+  "external_url": "https://www.idcrypt.xyz/2025/06/whale-deposit.html",
+  "image": "https://raw.githubusercontent.com/idcrypt/idcrypt-nft-metadata/main/covers/btc2.png",
   "attributes": [
     { "trait_type": "Published", "value": "2025-06-13" },
     { "trait_type": "Category", "value": "Bitcoin News" },
