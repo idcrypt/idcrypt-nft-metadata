@@ -29,3 +29,15 @@ All article NFTs follow a standardized JSON format:
   ]
 }
 
+🧪 Metadata Validation
+To validate any metadata file, refer to the JSON Schema located at:
+schema/metadata-schema.json
+
+👤 Ownership & Contribution
+All content is authored, owned, and governed by the developer of the Ardion token and ecosystem (@binka).
+
+At this stage, external contributions are restricted, but future collaboration will be opened for:
+
+Community-published articles
+
+Third-party NFT listings based on ecological or scientific topics
